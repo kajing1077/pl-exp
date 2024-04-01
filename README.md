@@ -1,11 +1,2 @@
-# next-practice
 # pl-exp
-# pl-exp
-# pl-exp
-# pl-exp
-# pl-exp
-# pl-exp
-# pl-exp
-# pl-exp
-# pl-exp
-# pl-exp
+Sample code for Jenkins pipeline experimentation
