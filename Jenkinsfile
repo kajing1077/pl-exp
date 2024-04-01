@@ -1,6 +1,6 @@
 pipeline {
     environment {
-        dockerImageName = "sheayun/simple-echo"
+        dockerImageName = "kajinori/simple-echo"
     }
     agent {
         kubernetes {
